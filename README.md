@@ -1,6 +1,6 @@
 # question_ans_thing
 
-> A Vue.js project
+__ its aint much , but its honest work. __
 
 ## Build Setup
 
