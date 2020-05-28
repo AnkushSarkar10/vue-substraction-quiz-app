@@ -1,6 +1,6 @@
 # question_ans_thing
 
-__ its aint much , but its honest work. __
+It ain't much , but it's honest work.
 
 ## Build Setup
 
